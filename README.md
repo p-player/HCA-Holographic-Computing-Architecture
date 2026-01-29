@@ -3,7 +3,7 @@
 ![Status: Verified](https://img.shields.io/badge/Status-Verified-success)
 
 > **项目代号**: HLPO-HCA-2026
-> **核心焦点**: 全息低功耗优化 (Holographic Low-Power Optimization) & 全息计算架构 (Holographic Computing Architecture)
+> **核心焦点**: HLPO & 全息计算架构 (Holographic Computing Architecture)
 > **验证状态**: ✅ 671B MoE 物理生存测试通过
 
 ## 什么是 HCA？(What is HCA?)
