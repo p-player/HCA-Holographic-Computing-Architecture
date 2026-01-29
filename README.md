@@ -1,7 +1,6 @@
 # HLPO + HCA: The Physics of Intelligence
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 ![Status: Verified](https://img.shields.io/badge/Status-Verified-success)
-![Platform: CUDA/RTL](https://img.shields.io/badge/Platform-CUDA%20%7C%20RTL-blue)
 
 > **项目代号**: HLPO-HCA-2026
 > **核心焦点**: 全息低功耗优化 (Holographic Low-Power Optimization) & 全息计算架构 (Holographic Computing Architecture)
