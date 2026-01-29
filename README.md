@@ -49,16 +49,16 @@ HCA 与 HLPO 是**共生关系**——HLPO 提供了超越物理极限的“超�
 详细的理论推导与仿真数据如下：
 
 ### [📂 第一部分：物理学原理 (Physics)](Part1_Physics/)
-- [01_The_Impedance_Wall.md](Part1_Physics/01_The_Impedance_Wall.pdf): 深度梯度跌落与摩尔定律的终结。
-- [02_Holographic_Flow.md](Part1_Physics/02_Holographic_Flow.pdf): 如何构建近零阻抗的计算拓扑。
+- [01_The_Impedance_Wall.pdf](Part1_Physics/01_The_Impedance_Wall.pdf): 深度梯度跌落与摩尔定律的终结。
+- [02_Holographic_Flow.pdf](Part1_Physics/02_Holographic_Flow.pdf): 如何构建近零阻抗的计算拓扑。
 
 ### [📂 第二部分：仿真验证 (Simulation)](Part2_Simulation/)
-- [01_7B_Verification.md](Part2_Simulation/01_7B_Verification.pdf): 25.4倍有效加速的物理来源。
-- [02_671B_Survival.md](Part2_Simulation/02_671B_Survival.pdf): DeepSeek V3 规模下的生存测试（核心）。
+- [01_7B_Verification.pdf](Part2_Simulation/01_7B_Verification.pdf): 25.4倍有效加速的物理来源。
+- [02_671B_Survival.pdf](Part2_Simulation/02_671B_Survival.pdf): DeepSeek V3 规模下的生存测试（核心）。
 
 ### [📂 第三部分：架构设计 (Architecture)](Part3_Architecture/)
-- [01_Near_Memory_MoE.md](Part3_Architecture/01_Near_Memory_MoE.pdf): 冷切换 (Cold Switching) 与静态路由图谱。
-- [02_Entropy_Filtering.md](Part3_Architecture/02_Entropy_Filtering.pdf): 信息势能过滤机制。
+- [01_Near_Memory_MoE.pdf](Part3_Architecture/01_Near_Memory_MoE.pdf): 冷切换 (Cold Switching) 与静态路由图谱。
+- [02_Entropy_Filtering.pdf](Part3_Architecture/02_Entropy_Filtering.pdf): 信息势能过滤机制。
 
 ---
 
